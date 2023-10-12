@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdiiiC
 - 👀 I’m interested in Data Science and AIML 
 - 🌱 I’m currently learning Basic ML concepts
-- 💞️ I’m looking to collaborate on ML projects
+- 🤝 I’m looking to collaborate on ML projects
 - 📫 How to reach me ...
 - email me at adithya.cshekhar@gmail.com
 
