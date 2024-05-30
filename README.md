@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdiiiC
-- 👀 I’m interested in Data Science and AIML 
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Basic ML concepts
 - 🤝 I’m looking to collaborate on ML projects
 - 📫 How to reach me ...
